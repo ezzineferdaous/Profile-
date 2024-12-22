@@ -1730,6 +1730,7 @@ input[type="submit"].btn {
   -webkit-appearance: none;
   outline: none;
   margin: 0;
+  margin-bottom: 80px;
   border: none;
   border-radius: 2px;
   box-shadow: none;
